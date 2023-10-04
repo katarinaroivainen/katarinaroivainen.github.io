@@ -1,0 +1,44 @@
+body {
+}
+
+h1 {
+color:red
+}
+#guid1 {
+    color:aquamarine
+}
+h2 {
+    color:coral
+}
+h3 {
+    color:darkorange
+}
+.esimerkki {
+    padding-left: 40px;
+    color:hotpink;
+}
+.esimerkki-box {
+    background-color: aqua;
+    border: solid 1px #0b5;
+
+    padding: 4px
+}
+tr:nth-child(odd){
+    background-color: #BBB;
+}
+table{
+    border spacing: 0px;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+table tr td {
+    margin: 0px;
+    border: solid 1px #888;
+}
+.merkattu {
+    color: #F00;
+}
+.jsharkkatyyli {
+    display: none;
+}
